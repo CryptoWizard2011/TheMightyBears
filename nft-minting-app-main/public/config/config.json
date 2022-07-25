@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x944c4360E394560Ec26084F06199B0032f5eEE1C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x944c4360e394560ec26084f06199b0032f5eee1c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Mighty Bears",
+  "SYMBOL": "MTB",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-mighty-bears",
+  "SHOW_BACKGROUND": true
+}
